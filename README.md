@@ -1,1 +1,1 @@
-# Iot-backend-systemtest ![alt text](image.png)
+# Iot-backend-systemtest
